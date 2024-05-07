@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **a LLM**
  
- 🌱 I’m currently learning **Docker, C++, AWS**
+ 🌱 I’m currently learning **C++ and Machine Learning**
 
 💬 Ask me about **Node.js, React, Python... or anything [here](https://github.com/Selvawen/Selvawen/issues)**
 
