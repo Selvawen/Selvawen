@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **an E-Commerce Website**
+ 🔭 I’m currently working on **building cybersecurity and IT home-lab projects**
  
- 🌱 I’m currently learning **React and Node.JS**
+ 🌱 I’m currently learning **data analytics, cloud computing, and security fundamentals**
 
-💬 Ask me about **Node.js, React, Python... or anything [here](https://github.com/Selvawen/Selvawen/issues)**
+💬 Ask me about **help-desk workflows, security tools, AWS basics... or anything [here](https://github.com/Selvawen/Selvawen/issues)**
 
 
 
