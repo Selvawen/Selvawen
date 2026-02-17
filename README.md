@@ -15,9 +15,6 @@
  🌱 I’m currently learning **data analytics, cloud computing, and security fundamentals**
 
 💬 Ask me about **help-desk workflows, security tools, AWS basics... or anything [here](https://github.com/Selvawen/Selvawen/issues)**
-
-
-
  </div>
  
 <div align="center"> 
@@ -32,6 +29,22 @@
   </a>
 </div>
 
+
+ <h2 align="center">⚠️ Vulnerability Management Projects</h2>
+
+- **[Vulnerability Management Program Implementation](https://github.com/Selvawen/Vulnerability-Management-Program)**
+- **Programmatic Vulnerability Remediations with Powershell and BASH TBA**
+<br/>
+
+ <h2 align="center">🚨 Threat Hunting and Security Operations</h2>
+
+- **Threat Hunting Scenario (Tor Browser Usage) TBA**
+<br/>
+
+
+ </div>
+ 
+
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -45,7 +58,7 @@
 <hr/>
 
 
-<hr/>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
