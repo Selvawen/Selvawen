@@ -38,7 +38,7 @@
 
  <h2 align="center">🚨 Threat Hunting and Security Operations</h2>
 
-- **Threat Hunting Scenario (Tor Browser Usage) TBA**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Selvawen/threat-hunting-scenario-tor/tree/main)**
 <br/>
 
 
