@@ -30,20 +30,18 @@
 </div>
 
 
- <h2 align="center">⚠️ Vulnerability Management Projects</h2>
+ <h2 align="center">☁️ Cloud Security & Detection Engineering</h2>
 
 - **[Vulnerability Management Program Implementation](https://github.com/Selvawen/Vulnerability-Management-Program)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Selvawen/threat-hunting-scenario-tor/tree/main)**
 - **Programmatic Vulnerability Remediations with Powershell and BASH TBA**
 <br/>
 
- <h2 align="center">🚨 Threat Hunting and Security Operations</h2>
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Selvawen/threat-hunting-scenario-tor/tree/main)**
-<br/>
+
 
 
  </div>
- 
 
  <hr/>
  
