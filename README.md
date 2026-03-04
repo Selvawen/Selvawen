@@ -35,10 +35,10 @@
 - **[Vulnerability Management Program Implementation](https://github.com/Selvawen/Vulnerability-Management-Program)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Selvawen/threat-hunting-scenario-tor/tree/main)**
 - **[AWS CloudTrail Threat Detection & Response Pipeline (Terraform)](https://github.com/Selvawen/AWS-CloudTrail-Threat-Detection-Response-Pipeline-Terraform)**
+- **[DFIR AI Assistant](https://github.com/Selvawen/dfir-ai-assistant)**
 - **Programmatic Vulnerability Remediations with Powershell and BASH TBA**
 
 <br/>
-
 
 
 
