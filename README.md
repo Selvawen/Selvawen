@@ -38,7 +38,7 @@
 - **[DFIR AI Assistant](https://github.com/Selvawen/dfir-ai-assistant)**
 - **[Programmatic Vulnerability Remediations with Powershell and BASH](https://github.com/Selvawen/programmatic-vulnerability-remediations/tree/main)**
 - **[AWS S3 Data Breach Simulation & Remediation](https://github.com/Selvawen/AWS-S3-Data-Breach-Simulation-and-Remediation)**
-
+- **[FHIR Exfiltration and Detection Engine](https://github.com/Selvawen/fhir-exfil-detection)**
 
 <br/>
 
